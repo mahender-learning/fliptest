@@ -1,3 +1,4 @@
-this is dummy test
 
 this is dummy text - 2
+
+this is new line - 3
